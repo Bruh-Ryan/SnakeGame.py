@@ -6,12 +6,12 @@ This is a completed implementation of the classic **Snake Game** using Python's 
 
 ## 🎮 Features
 
-- ✅ Smooth snake movement
-- 🍎 **Food system** — Snake grows when it eats
-- ⭐ **Scoreboard** that updates in real time
-- 🔥 **Bonus system**: Every 5th food gives **+5 points**
-- 🧠 Basic collision detection (walls and self)
-- 🎯 Restart the game by pressing the `space` key after Game Over
+- Smooth snake movement
+- **Food system** — Snake grows when it eats
+- **Scoreboard** that updates in real time
+- **Bonus system**: Every 5th food gives **+5 points**
+- Basic collision detection (walls and self)
+- Restart the game by pressing the `space` key after Game Over
 
 ---
 
