@@ -4,7 +4,7 @@ This is a completed implementation of the classic **Snake Game** using Python's 
 
 ---
 
-## 🎮 Features
+## Features
 
 - Smooth snake movement
 - **Food system** — Snake grows when it eats
@@ -24,13 +24,13 @@ Once restarted, it runs **smoothly from then on**. This is known and will be pat
 
 ## 🚧 Upcoming Features
 
-- 🎛️ In-game **Menu UI** (Start, Restart, Exit)
-- 🔊 **Sound Effects** (eating, crash, game over)
-- 💾 High score saving
+- In-game **Menu UI** (Start, Restart, Exit)
+- **Sound Effects** (eating, crash, game over)
+- High score saving
 
 ---
 
-## ▶️ Getting Started
+## ▶Getting Started
 
 Make sure you have Python 3 installed.
 
